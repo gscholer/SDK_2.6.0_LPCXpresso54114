@@ -1,0 +1,8 @@
+/middleware/multicore/erpc/docs
+/middleware/multicore/mcmgr/doc
+/middleware/multicore/rpmsg_lite/doc
+/middleware/fatfs/documents
+*.pdf
+*.a
+*.exe
+/middleware/multicore/tools
